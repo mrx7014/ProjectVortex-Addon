@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.mrx7014.s24ultraspoofer'
+    namespace 'com.mrx7014.projectvortexaddon'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.mrx7014.s24ultraspoofer"
+        applicationId "com.mrx7014.projectvortexaddon"
         minSdk 29
         targetSdk 34
         versionCode 1
