@@ -1,11 +1,11 @@
 # ProjectVortex Addon
 
 <div align="center">
-  <img src="assets/ProjectVortex.jpg" alt="" />
+  <img src="assets/ProjectVortexAddon.png" alt="" />
 
 <br />
   
-**Unlock Flagship Experience For Your Galaxy A23 4G**
+**Galaxy EnhanceX on unsupported devices**
   
 </div>
 
